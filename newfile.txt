@@ -1,4 +1,4 @@
 new file
 This is a text file
-
+test
 This is for demo
